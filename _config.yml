@@ -97,6 +97,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+# theme: landscape
+
+theme_config:
+  path: _config.next.yml
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

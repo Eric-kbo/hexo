@@ -1,22 +1,20 @@
 en:
-  name: English
-  subtitle: Theme for Hexo
+  name: WE
+  subtitle: welcome
   author: Theme NexT
-  description: Stay Simple. Stay NexT.
-ru:
-  name: Русский
-  subtitle: Тема для Hexo
-  author: Тема NexT
-  description: Ставь просто. Ставь NexT.
+  description: little blog.
+zh-CN:
+  name: Chinese (Simplified)
+  subtitle: 欢迎
+  author: WE
+  description: 一个小小的博客.
   menu:
-    News: Новости
-    Docs: Документация
-    Getting Started: Начало работы
-    Theme Settings: Настройки темы
-    Third Party Plugins: Сторонние приложения
-    Algolia Search: Поиск Algolia
-    Tag Plugins: Плагины тэгов
-    Advanced Settings: Расширенные настройки
-    FAQ's: ЧаВо
-zh-TW:
-  name: Chinese
+    News: 新闻
+    Docs: 文档
+    Getting Started: 获得
+    Theme Settings: 设置主题
+    Third Party Plugins: 实验室
+    Algolia Search: 查询
+    Tag Plugins: 实验
+    Advanced Settings: 帮助设置
+    FAQ's: 提问

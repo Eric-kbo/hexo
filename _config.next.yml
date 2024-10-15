@@ -96,6 +96,7 @@ menu:
 
   Plugins: /plugins/ || fa fa-flask
   archives: /archives/ || fa fa-archive
+  pp: /archives/ || fa fa-archive
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 
@@ -115,7 +116,7 @@ sidebar:
   offset: 12
 
 avatar:
-  url: /images/logo.svg
+  url: /images/user/unnamed.png
   rounded: true
 
 social:
@@ -185,8 +186,8 @@ back2top:
 
 github_banner:
   enable: true
-  permalink: https://github.com/next-theme/hexo-theme-next
-  title: Fork NexT on GitHub
+  permalink: https://github.com/Eric-kbo/hexo
+  title: link to github
 
 font:
   enable: true

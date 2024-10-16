@@ -1,9 +1,9 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
+yarn.lock
+package-lock.json
 node_modules/
+db.json
 public/
 .deploy*/
 _multiconfig.yml
 public.zip
+.DS_Store

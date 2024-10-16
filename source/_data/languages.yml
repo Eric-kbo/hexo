@@ -1,0 +1,20 @@
+en:
+  name: WE
+  subtitle: welcome
+  author: Theme NexT
+  description: little blog.
+zh-CN:
+  name: Chinese (Simplified)
+  subtitle: 欢迎
+  author: WE
+  description: 一个小小的博客.
+  menu:
+    News: 新闻
+    Docs: 文档
+    Getting Started: 获得
+    Theme Settings: 设置主题
+    Third Party Plugins: 实验室
+    Algolia Search: 查询
+    Tag Plugins: 实验
+    Advanced Settings: 帮助设置
+    FAQ's: 提问
